@@ -31,10 +31,10 @@ This model analyzes message content and classifies it as **spam** or **not spam*
 ## 🌐 Potential Applications
   While trained on SMS data, the system's architecture and modeling approach can be adapted for:
 
-- 📲 **Messaging Apps**: Automatically filter spam messages in SMS, email, or chat platforms.  
-- 🛡️ **Email Clients**: Detect phishing or scam attempts and protect users from fraud.  
-- 🧠 **AI Chatbots**: Enable bots to flag and avoid responding to suspicious content.  
-- 🧹 **Customer Service**: Maintain clean and professional communication channels.
+- 📲 **Messaging Platforms** 
+- 🛡️ **Email Clients** 
+- 🧠 **AI Chatbots** 
+- 🧹 **Customer Service**
 
 ---
 
