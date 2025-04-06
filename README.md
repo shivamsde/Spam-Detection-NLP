@@ -28,7 +28,7 @@ This model analyzes message content and classifies it as **spam** or **not spam*
 
 ---
 
-## 🌐 Applications
+## 🌐 Potential Applications
   While trained on SMS data, the system's architecture and modeling approach can be adapted for:
 
 - 📲 **Messaging Apps**: Automatically filter spam messages in SMS, email, or chat platforms.  
