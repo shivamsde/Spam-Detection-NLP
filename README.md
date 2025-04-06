@@ -1,3 +1,6 @@
+
+# 📧 Spam Detection using NLP
+
 A lightweight, high-performance spam detection system designed to filter out unwanted or harmful messages using Natural Language Processing (NLP). This project empowers communication platforms and users by enhancing security and improving the overall messaging experience.
 
 ---
@@ -26,6 +29,7 @@ This model analyzes message content and classifies it as **spam** or **not spam*
 ---
 
 ## 🌐 Applications
+  While trained on SMS data, the system's architecture and modeling approach can be adapted for:
 
 - 📲 **Messaging Apps**: Automatically filter spam messages in SMS, email, or chat platforms.  
 - 🛡️ **Email Clients**: Detect phishing or scam attempts and protect users from fraud.  
@@ -39,3 +43,4 @@ This model analyzes message content and classifies it as **spam** or **not spam*
 - 🔁 **Continuous Learning**: Add user feedback to improve prediction over time.  
 - 🌐 **Multilingual Support**: Extend spam detection across various languages.  
 - 📊 **Dashboard Integration**: Visualize spam trends, message types, and detection accuracy.
+
